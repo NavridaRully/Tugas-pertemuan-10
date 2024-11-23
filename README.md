@@ -63,3 +63,9 @@
 </body>
 </html>
 ```
+
+
+2. hasil outputnya :
+   ![img](hasil(1).jpeg)
+   ![img](hasil(2).jpeg)
+   ![img](hasil(full).jpeg)

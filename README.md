@@ -1,4 +1,5 @@
 1. Codingan PHP nya :
+```ruby
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,3 +62,4 @@
     ?>
 </body>
 </html>
+```
